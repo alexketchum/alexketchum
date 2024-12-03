@@ -1,7 +1,7 @@
 # Alex Ketchum
 **🖥 Full Stack Web Developer**
 <br/>
-<sub>HTML &bull; CSS &bull; Javascript &bull; Typescript &bull; Kotlin &bull; Python &bull; NodeJS &bull; React &bull; Git &bull; Github</sub>
+<sub>HTML &bull; CSS &bull; Javascript &bull; Typescript &bull; Kotlin &bull; Python &bull; Postgresql &bull; NodeJS &bull; React &bull; Git &bull; Github</sub>
 
 
 <!--
