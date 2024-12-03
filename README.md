@@ -1,4 +1,8 @@
-## Hi there 👋
+# Alex Ketchum
+**🖥 Full Stack Web Developer**
+<br/>
+<sub>HTML &bull; CSS &bull; Javascript &bull; Typescript &bull; Kotlin &bull; Python &bull; NodeJS &bull; React &bull; Git &bull; Github</sub>
+
 
 <!--
 **alexketchum/alexketchum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
